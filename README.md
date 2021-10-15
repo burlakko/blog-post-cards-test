@@ -23,3 +23,5 @@ I wanted to keep this project lightweight and free of unnecessary dependencies, 
 I bundled Vanilla-framework to include only the styles required.
 
 The data received from API appeared to be a bit unnormalized, so I introduced a facade object, mapping function, and data interfaces; this is why I introduced Typescript to this project.
+
+As I understood, the per-pixel positioning is not required, so I decided to deal with mostly default Vanilla framework settings, although I have rewritten a couple.
