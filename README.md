@@ -18,7 +18,7 @@ The requirements are:
 
 # Implementation Details
 
-I wanted to keep this project lightweight and free of unnecessary dependencies, so I did not introduce any js framework. But I decided that componentization for the sake of avoiding spaghetti code is always a good idea, so I made things a bit spicy with the experimental component feature (see `components` and `pages` folders).
+I wanted to keep this project lightweight and free of unnecessary dependencies, so I did not introduce any js framework. But I decided that componentization for the sake of avoiding spaghetti code is always a good idea, so I made things a bit spicy with the experimental component feature (see `src/components` and `src/pages` folders).
 
 I bundled Vanilla-framework to include only the styles required.
 
